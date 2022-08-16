@@ -10,7 +10,7 @@ Download Python 3.9.5
 
 ```pip install -r requirements.txt```
 
-<a href="https://github.com/NathanOnTop/Discord-Token-Joiner.git">Download Discord Token Joiner</a>
+<a href="https://codeload.github.com/NathanOnTop/Discord-Token-Joiner/zip/refs/heads/main?token=AY575KXGV7K4UJ353JJAW3LC7P6V2">Download Discord Token Joiner</a>
 
 When u have everything installed go to discord copy ur discord server link paste it in the program and ur tokens should join the server 
 make sure ur tokens arent locked or deleted use an token checker to see if they still work.
