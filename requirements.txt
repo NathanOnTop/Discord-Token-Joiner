@@ -1,0 +1,9 @@
+pip install sys 
+pip install os 
+pip install pystyle 
+pip install turtle
+pip install time
+pip install pystyle
+pip install discord
+pip install ultrarequests
+pip install clear
