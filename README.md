@@ -14,3 +14,5 @@ When u have everything installed go to discord copy ur discord server link paste
 make sure ur tokens arent locked or deleted use an token checker to see if they still work.
 
 Need help with this program dm me Termed$#0001
+
+# Enjoy and Thanks for using my tool :)
